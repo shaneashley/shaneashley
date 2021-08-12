@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ashley
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development 
+- I want to become a Frontend Developer
 - 🌱 I’m currently learning Javascript and React <3
 - 📫 How to reach me: shaneashleymf@gmail.com
 - 👩🏽 Pronouns: She/Her
