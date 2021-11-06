@@ -3,6 +3,7 @@
 - ✨I want to become a Frontend Developer
 - 🌱 I’m currently learning Javascript and React <3
 - 📫 How to reach me: shaneashleymf@gmail.com
+- 🌐 Visit my portfolio: shaneashley.xyz
 - 👩🏽 Pronouns: She/Her
 <!---
 shaneashley/shaneashley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
