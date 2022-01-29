@@ -15,3 +15,5 @@ My Skills:
 - Bootstrap
 - SASS
 - React
+- Jest 
+- Typescript (Learning)
