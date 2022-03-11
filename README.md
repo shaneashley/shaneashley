@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ashley
 - 👀 I’m interested in Web Development 
-- ✨I want to become a Frontend Developer
-- 🌱 I’m currently learning Javascript and React <3
+- ✨Full-stack developer
+- 🌱 I’m currently learning MERN.
 - 📫 How to reach me: shaneashleymf@gmail.com
-- 🌐 Visit my portfolio: shaneashley.xyz
+- 🌐 Visit my portfolio: codingash.netlify.app
 - 👩🏽 Pronouns: She/Her
 <!---
 shaneashley/shaneashley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ My Skills:
 - Bootstrap
 - SASS
 - React
-- Jest 
-- Typescript (Learning)
+- Express.js
+- MongoDB 
+- Mongoose
