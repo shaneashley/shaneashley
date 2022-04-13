@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashley
 - 👀 I’m interested in Web Development 
 - ✨Full-stack developer
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently learning Full-stack.
 - 📫 How to reach me: shaneashleymf@gmail.com
 - 🌐 Visit my portfolio: codingash.netlify.app
 - 👩🏽 Pronouns: She/Her
@@ -16,5 +16,5 @@ My Skills:
 - SASS
 - React
 - Express.js
-- MongoDB 
-- Mongoose
+- MySQL
+
