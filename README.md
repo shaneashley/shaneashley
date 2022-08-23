@@ -16,5 +16,5 @@ My Skills:
 - SASS
 - React
 - Express.js
-- MySQL
+- MySQL / MongoDB
 
