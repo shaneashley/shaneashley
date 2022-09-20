@@ -17,12 +17,12 @@
 
 <p><img style="height: 200px; width:50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaneashley&show_icons=true&locale=en&layout=compact" alt="shaneashley" /></p>
 
-
+<br>
 
 <p><img  style="height: 200px; width:50%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaneashley&" alt="shaneashley" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codingash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingasg" height="30" width="40" /></a>
+<a href="https://twitter.com/codingash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaneashleyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaneashleyf" height="30" width="40" /></a>
 </p>
