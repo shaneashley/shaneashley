@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **the MERN stack and MySQL**
 
-- 📫 How to reach me **shaneashleymf@gmail.com**
+- 📫 How to reach me **shaneashleymf@gmail.com** (personal) or **stellarsites.dev@gmail.com** 
 
-- Check my portfolio here: **www.stellarsite.com**
+- Check my portfolio here: **[https://stellar-sites.netlify.app/]**
 
 
 <h3 align="left">Languages and Tools:</h3>
